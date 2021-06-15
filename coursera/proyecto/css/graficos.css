@@ -1,0 +1,42 @@
+.menu {
+	list-style-type: none;
+   text-align: center;
+	margin: auto;
+}
+
+.menu li a{
+padding: 2px 100px 2px 100px;
+   color: black;
+   background-color: ##d3d3d3;
+   border: 1px solid #ccc;
+   text-decoration: none;
+
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: white;
+}
+div.randon{
+	width: 600px;
+	margin: auto;
+	list-style: none;
+	padding: 20px;
+	box-sizing: border-box;
+	float: left;
+}
+div.randon{
+	width: 100%;
+	height: auto;
+}
+div.randon{
+	padding:10px;
+	text-align: right;
+	font-size: 20px;
+	font-family: 'PT Mono', monospace;
+}
+}
